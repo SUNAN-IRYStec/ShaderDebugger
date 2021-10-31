@@ -1,3 +1,7 @@
+# 直接copy到杀的人中使用是我这边有2个问题要注意：
+1. vTexCoord注意要从vs中传入
+2. 我这边小数点后面的数字需要做左右和上下翻转
+3. 
 # ShaderDebugger: A tool function for shader debugging
 
 ##  Intro
